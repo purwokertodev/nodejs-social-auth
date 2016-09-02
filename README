@@ -1,0 +1,11 @@
+step 1
+  npm install
+
+step 2
+  npm start
+
+step 3
+ access url 'http://localhost:3000/auth/facebook'
+
+step 4
+  user information will be store to your database
