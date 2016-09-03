@@ -1,6 +1,7 @@
 CREATE TABLE public."facebook_user"
 (
    id character varying(255),
+   api_type character varying(50),
    token text,
    email character varying(255),
    name character varying(255),
